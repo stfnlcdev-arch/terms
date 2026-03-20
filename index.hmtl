@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nutzungsbedingungen - [APP NAME]</title>
+    <style>
+        /* Gleiches Design wie deine Privacy Policy für Konsistenz */
+        :root {
+            --primary-color: #2d3436;
+            --text-color: #636e72;
+            --bg-color: #ffffff;
+            --link-color: #0984e3;
+            --accent-color: #d63031; /* Rot für Warnhinweise */
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--primary-color);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-color);
+        }
+
+        h1 { font-size: 2.2rem; margin-bottom: 0.5rem; color: #000; }
+        h2 { font-size: 1.5rem; margin-top: 2rem; border-bottom: 1px solid #eee; padding-bottom: 10px; color: #000; }
+        p, li { font-size: 1.1rem; color: var(--text-color); }
+
+        .last-updated { font-style: italic; margin-bottom: 3rem; color: #b2bec3; }
+        
+        .disclaimer-box {
+            background: #fff5f5;
+            border-left: 5px solid var(--accent-color);
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .contact-box {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+
+        a { color: var(--link-color); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <h1>Nutzungsbedingungen (Terms of Service)</h1>
+    <p class="last-updated">Zuletzt aktualisiert: 20. März 2026</p>
+
+    <p>Willkommen bei <strong>[APP NAME]</strong>. Durch die Nutzung dieser App erklärst du dich mit den folgenden Bedingungen einverstanden. Bitte lies sie sorgfältig durch.</p>
+
+    <h2>1. Nutzung der App</h2>
+    <p>Diese App ist für den persönlichen, nicht-kommerziellen Gebrauch bestimmt. Du bist dafür verantwortlich, dass deine Nutzung der App rechtmäßig ist.</p>
+    <ul>
+        <li><strong>Mindestalter:</strong> Du musst mindestens 16 Jahre alt sein, um diese App zu nutzen.</li>
+        <li><strong>Account:</strong> Du bist für die Sicherheit deines Google-Logins verantwortlich.</li>
+    </ul>
+
+    <div class="disclaimer-box">
+        <h2>2. Wichtiger Gesundheitshinweis & Haftung</h2>
+        <p><strong>Fermentation ist ein biologischer Prozess.</strong> Die App liefert lediglich Berechnungen und Richtwerte. Wir übernehmen KEINE Haftung für:</p>
+        <ul>
+            <li>Gesundheitliche Schäden durch unsachgemäße Handhabung von Lebensmitteln oder Schimmelbildung.</li>
+            <li>Das Scheitern von Backprozessen oder beschädigte Küchengeräte.</li>
+            <li>Die Richtigkeit der von Nutzern geteilten Rezepte.</li>
+        </ul>
+        <p><em>Du handelst auf eigene Gefahr. Achte stets auf Hygiene und Lebensmittelsicherheit.</em></p>
+    </div>
+
+    <h2>3. Nutzerinhalte (Rezepte & Logs)</h2>
+    <p>Wenn du Rezepte in der App veröffentlichst:</p>
+    <ul>
+        <li>Behältst du alle Urheberrechte, gewährst uns aber das Recht, diese Inhalte innerhalb der App anzuzeigen und zu speichern.</li>
+        <li>Darfst du keine rechtswidrigen oder beleidigenden Inhalte teilen.</li>
+        <li>Sind wir berechtigt, Inhalte zu löschen, die gegen diese Regeln verstoßen.</li>
+    </ul>
+
+    <h2>4. Verfügbarkeit & Änderungen</h2>
+    <p>Wir bemühen uns um einen reibungslosen Betrieb, garantieren aber keine 100%ige Verfügbarkeit. Wir behalten uns das Recht vor, Funktionen der App oder diese Bedingungen jederzeit zu ändern.</p>
+
+    <h2>5. Beendigung</h2>
+    <p>Du kannst die Nutzung der App jederzeit beenden, indem du deinen Account in den Einstellungen löschst. Wir behalten uns vor, Nutzer bei Verstößen gegen diese Bedingungen von der App auszuschließen.</p>
+
+    <div class="contact-box">
+        <h2>6. Kontakt</h2>
+        <p>Bei Fragen zu diesen Bedingungen kontaktiere uns bitte unter:</p>
+        <p><strong>[DEIN NAME]</strong><br>
+        Email: <a href="mailto:[CHANGETHIS@yourapp.com]">[CHANGETHIS@yourapp.com]</a></p>
+    </div>
+
+</body>
+</html>
